@@ -75,5 +75,10 @@
     "tabWidth": 2,
     "trailingComma": "es5",
     "useTabs": false
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css,scss}": [
+      "prettier --write"
+    ]
   }
 }

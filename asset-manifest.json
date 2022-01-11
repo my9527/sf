@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/sunflower-front/static/css/main.ac191864.chunk.css",
-    "main.js": "/sunflower-front/static/js/main.34bec72c.chunk.js",
-    "main.js.map": "/sunflower-front/static/js/main.34bec72c.chunk.js.map",
-    "runtime-main.js": "/sunflower-front/static/js/runtime-main.ce656015.js",
-    "runtime-main.js.map": "/sunflower-front/static/js/runtime-main.ce656015.js.map",
-    "static/css/2.963765e0.chunk.css": "/sunflower-front/static/css/2.963765e0.chunk.css",
-    "static/js/2.e561e8c8.chunk.js": "/sunflower-front/static/js/2.e561e8c8.chunk.js",
-    "static/js/2.e561e8c8.chunk.js.map": "/sunflower-front/static/js/2.e561e8c8.chunk.js.map",
-    "index.html": "/sunflower-front/index.html",
-    "precache-manifest.c25ae1b96b6abe3db871ba5bd8b33506.js": "/sunflower-front/precache-manifest.c25ae1b96b6abe3db871ba5bd8b33506.js",
-    "service-worker.js": "/sunflower-front/service-worker.js",
-    "static/css/2.963765e0.chunk.css.map": "/sunflower-front/static/css/2.963765e0.chunk.css.map",
-    "static/css/main.ac191864.chunk.css.map": "/sunflower-front/static/css/main.ac191864.chunk.css.map",
-    "static/js/2.e561e8c8.chunk.js.LICENSE.txt": "/sunflower-front/static/js/2.e561e8c8.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/sunflower-front/static/media/logo.51c12428.png",
-    "static/media/speed-up.png": "/sunflower-front/static/media/speed-up.afdb2d67.png",
-    "static/media/spinning_coin.gif": "/sunflower-front/static/media/spinning_coin.9a61915e.gif",
-    "static/media/willow_tree.mp3": "/sunflower-front/static/media/willow_tree.70fb5690.mp3"
+    "main.css": "/sf/static/css/main.ac191864.chunk.css",
+    "main.js": "/sf/static/js/main.e7ca4d4b.chunk.js",
+    "main.js.map": "/sf/static/js/main.e7ca4d4b.chunk.js.map",
+    "runtime-main.js": "/sf/static/js/runtime-main.5df50f4a.js",
+    "runtime-main.js.map": "/sf/static/js/runtime-main.5df50f4a.js.map",
+    "static/css/2.963765e0.chunk.css": "/sf/static/css/2.963765e0.chunk.css",
+    "static/js/2.da8d5114.chunk.js": "/sf/static/js/2.da8d5114.chunk.js",
+    "static/js/2.da8d5114.chunk.js.map": "/sf/static/js/2.da8d5114.chunk.js.map",
+    "index.html": "/sf/index.html",
+    "precache-manifest.85f696c3a7a4b0591bcd93b5d3b08c9b.js": "/sf/precache-manifest.85f696c3a7a4b0591bcd93b5d3b08c9b.js",
+    "service-worker.js": "/sf/service-worker.js",
+    "static/css/2.963765e0.chunk.css.map": "/sf/static/css/2.963765e0.chunk.css.map",
+    "static/css/main.ac191864.chunk.css.map": "/sf/static/css/main.ac191864.chunk.css.map",
+    "static/js/2.da8d5114.chunk.js.LICENSE.txt": "/sf/static/js/2.da8d5114.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/sf/static/media/logo.51c12428.png",
+    "static/media/speed-up.png": "/sf/static/media/speed-up.afdb2d67.png",
+    "static/media/spinning_coin.gif": "/sf/static/media/spinning_coin.9a61915e.gif",
+    "static/media/willow_tree.mp3": "/sf/static/media/willow_tree.70fb5690.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce656015.js",
+    "static/js/runtime-main.5df50f4a.js",
     "static/css/2.963765e0.chunk.css",
-    "static/js/2.e561e8c8.chunk.js",
+    "static/js/2.da8d5114.chunk.js",
     "static/css/main.ac191864.chunk.css",
-    "static/js/main.34bec72c.chunk.js"
+    "static/js/main.e7ca4d4b.chunk.js"
   ]
 }
